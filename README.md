@@ -1,7 +1,7 @@
 # Ex01 Portfolio
 
-NAME : REVATHI K
-REGNO : 212223040169
+#NAME : REVATHI K
+#REGNO : 212223040169
 
 ## AIM
 To create a Portfolio using HTML and CSS.
